@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, We are ReMakers!</h1>
 <h3 align="center">A passionate local tech community in the south of Italy</h3>
 <h3 align="center">https://www.remakers.it/</h3>
-
+<p align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=5WHFCM3NLPQPG">
+      <img src="https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donateCC_LG.gif" alt="paypal">
+  </a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remakerslab&label=Profile%20views&color=0e75b6&style=flat" alt="remakerslab" /> </p>
 
 <h3 align="left">Connect with us:</h3>
